@@ -1,2 +1,2 @@
 # Codeforces_sanchayan_sengupta
-A beginner friendly Compititive programming learning Repo.
+A beginner friendly Competitive programming learning Repo.
